@@ -1,0 +1,39 @@
+{
+  "version": "v5",
+  "target_added": [
+    "ArPhEx-5.0.2-neoforge-1.21.1.jar",
+    "Design-n-Decor-1.21.1-2.1.0.jar",
+    "ParCool-1.21.1-3.4.3.1-NF.jar",
+    "alexsmobs-1.22.17.jar",
+    "azurelib-neo-1.21.1-3.1.8.jar",
+    "big_cannons_aeronautics_fix-0.1-Alpha.jar",
+    "cc_sable-neoforge-1.2.2.jar",
+    "citadel-1.21.1-2.7.6.jar",
+    "create-1.21.1-6.0.10.jar",
+    "create-aeronautics-bundled-1.21.1-1.1.3.jar",
+    "createbigcannons-5.11.2-mc.1.21.1.jar",
+    "createpropulsionsimulated-1.0.2.jar",
+    "gigeresque-neoforge-1.21.1-0.8.16.jar",
+    "him-2.0.2-neoforge-1.21.1.jar",
+    "neoorigins-2.0.2+1.21.1.jar",
+    "nyfsspiders-neoforge-1.21.1-3.0.1.jar",
+    "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+    "sable-neoforge-1.21.1-1.1.3.jar",
+    "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "tfmg-1.2.0.jar"
+  ],
+  "target_removed": [
+    "create-1.21.1-6.0.9.jar",
+    "embeddium-1.0.15+mc1.21.1.jar",
+    "monocle-0.2.3.ms.jar"
+  ],
+  "new_jars": [],
+  "changes": {
+    "added": [],
+    "no_longer_added": [
+      "alexscaves-2.0.10.jar"
+    ],
+    "newly_removed": [],
+    "no_longer_removed": []
+  }
+}
